@@ -20,8 +20,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Frontend Mentor](https://fm-recipe-page-challenge.netlify.app)
+- Solution URL: [Frontend Mentor](https://your-solution-url.com)
+- Live Site URL: [Netlify](https://fm-recipe-page-challenge.netlify.app)
 
 ## My process
 
