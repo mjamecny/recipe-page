@@ -1,11 +1,11 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
   content: ["*"],
-  fontFamily: {
-    sans: ["Outfit", "sans-serif"],
-    serif: ["Young Serif", "serif"],
-  },
   theme: {
+    fontFamily: {
+      sans: ["Outfit", "sans-serif"],
+      serif: ["'Young Serif'", "serif"],
+    },
     colors: {
       nutmeg: "hsl(14,45%,36%)",
       darkRaspberry: "hsl(332,51%,32%)",
